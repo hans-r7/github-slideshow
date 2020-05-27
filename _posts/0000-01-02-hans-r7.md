@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+There's no place like 127.0.0.1
 Use the left arrow to go back!
